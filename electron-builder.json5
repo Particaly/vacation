@@ -1,0 +1,8 @@
+{
+	appId: 'com.letcue.vacation',
+	productName: 'vacation',
+	files: [],
+	nsis: {
+		oneClick: false,
+	}
+}
